@@ -13,8 +13,10 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  /* background: url(fb-icons/bgim.png); */
-  background: url(fb-icons/bgim.png) no-repeat center fixed; 
+  /* background: url(fb-icons/bgim.png); 
+  background: linear-gradient(#00C6FF, #0078FF);
+  */
+  background: url(fb-icons/img5.jpg) no-repeat center fixed; 
   background-size: cover;
 };
   
